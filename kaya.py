@@ -17,7 +17,7 @@ def draw_snowman_body(height_ft, inches):
     
     # Base snowman structure (adjusted to fit head width as a box)
     body_line = "     |                   | "
-    body_line_with_arms = "==|  |                   |  |=="
+    body_line_with_arms = "==|  |                   |  |=2="
     base_line = "      \\-----------------/ "
     
     # Print body (middle)
